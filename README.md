@@ -2,7 +2,6 @@
 
 #### I'm a Software Engineer working in Montreal, Canada.
 
-#### BIO
 - 🔭 I’m currently working at **National Bank of Canada**
 - 🌱 I’m currently learning **AWS Solutions Architecture**
 - 📫 How to reach me: [Mayo#5618](https://discordapp.com/users/235211736167350272)
